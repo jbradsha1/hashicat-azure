@@ -7,3 +7,4 @@ resource "azurerm_network_interface" "catapp-nic" {
   resource_group_name       = azurerm_resource_group.myresourcegroup.name
 
 }
+}
